@@ -12,8 +12,8 @@
   * C/C++
   * C#
   * GoLang
-  * Python
-  * JavaScript
+  * Python (Django)
+  * JavaScript (NodeJS, VueJS, ReactJS)
   * FASM
   * SQL (Oracle, PostgreSQL, MySQL)
   * NoSQL (MongoDB, TitanDB) 
