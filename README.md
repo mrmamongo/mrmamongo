@@ -1,4 +1,4 @@
-## Junior Developer
+# JUNIOR DEVELOPER
 
 ## **Навыки:**
   *	**Английский: B2**
