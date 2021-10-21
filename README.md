@@ -1,6 +1,6 @@
 # **JUNIOR DEVELOPER**
 
-mrmamongo.github.io
+[Резюме](http://mrmamongo.github.io/ "Моё резюме")
 
 ## **Навыки:**
   *	Английский: B2
