@@ -16,7 +16,3 @@
   * Python (Django, Flask, FastApi)
   * JavaScript (NodeJS, ReactJS) 
   * SQL (Oracle, PostgreSQL, MySQL), NoSQL (MongoDB, TitanDB) 
-
-## Опыт:
- 1 год - ООО "Лабиринт"
- 8 месяцев - ГосНИИАС
